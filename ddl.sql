@@ -1,3 +1,5 @@
+CREATE DATABASE hse;
+
 -- Создание hub-таблиц
 CREATE TABLE hub_shipments (
     shipment_id VARCHAR(255) NOT NULL,
